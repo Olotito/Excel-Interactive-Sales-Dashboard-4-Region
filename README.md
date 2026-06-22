@@ -30,4 +30,4 @@ Total must = Sum of Parts. Always. Rebuilt entire dataset when I found a $21k va
 - [Download Excel Dashboard](./Excel%20Sales%20Dashboard%2031k%20%2B%204_Regions.xlsx)
 
 ---
-**LinkedIn:** https://www.linkedin.com/in/isaiah-olotito-20a5b61b4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+**LinkedIn:** [Isaiah Olotito](https://www.linkedin.com/in/isaiah-olotito-20a361b47/)
