@@ -27,7 +27,7 @@ Interactive dashboard analyzing 500+ transactions across 4 regions. Built with E
 Total must = Sum of Parts. Always. Rebuilt entire dataset when I found a $21k variance. Data integrity beats pretty charts.
 
 ### Files
-- [Download Excel Dashboard](./Excel%20Sales%20Dashboard%2031k%20+%204%20Regions.xlsx)
+- [Download Excel Dashboard](./Excel%20Sales%20Dashboard%2031k%20%2B%204_Regions.xlsx)
 - 
 - ![Dashboard Preview](./dashboard_screenshot.png)
 
