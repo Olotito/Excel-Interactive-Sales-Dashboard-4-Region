@@ -28,8 +28,6 @@ Total must = Sum of Parts. Always. Rebuilt entire dataset when I found a $21k va
 
 ### Files
 - [Download Excel Dashboard](./Excel%20Sales%20Dashboard%2031k%20%2B%204_Regions.xlsx)
-- 
-- ![Dashboard Preview](./dashboard_screenshot.png)
 
 ---
-**Connect:** isaiaholotito@gmail.com | Building 3 Data Projects for Remote Data Analyst roles
+**LinkedIn:** Isaiah Olotito
